@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Branch.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Branch.Api.Controllers.CategoryController.GetAllCategoriesWithChild(System.Nullable{System.Int64})">
+            
+        </member>
+    </members>
+</doc>
